@@ -7,7 +7,7 @@ public class Lion {
     boolean hasMane;
 
     public Lion(String sex) throws Exception {
-        if ("Самец".equals(sex)) {
+        if ("CKJdj".equals(sex)) {
             hasMane = true;
         } else if ("Самка".equals(sex)) {
             hasMane = false;
